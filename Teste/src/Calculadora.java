@@ -8,7 +8,6 @@ public class Calculadora {
     public int multiplicarDoisNumeros(int valor1, int valor2){
         return valor1 * valor2;
     }
-
     public int dividirDoisNumeros(int numeroUm, int numeroDois){
         return numeroUm / numeroDois;
     }
